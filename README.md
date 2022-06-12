@@ -41,7 +41,7 @@ In this repository,files contain in app are the final
 
 Here the screenshot of the app :
 
-![Screenshot1](https://github.com/GrmRy/GrmRy/blob/main/IMG-20220612-WA0008.jpg) ![Screenshot2](https://github.com/GrmRy/GrmRy/blob/main/IMG-20220612-WA0016.jpg)
+![Screenshot1](https://github.com/GrmRy/GrmRy/blob/main/Tak%20berjudul15_20220612091720.png)
 
 ## 3. Cloud Computing
 
