@@ -1,7 +1,7 @@
 
 ![Logo](https://github.com/GrmRy/GrmRy/blob/main/a.png)
 
-# GetFix
+<h1 align="center">GetFix</h1>
 
 An App to fix your lovely gadget
 
