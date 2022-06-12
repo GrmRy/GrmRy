@@ -12,7 +12,7 @@ According to data from Ministry of Communication and Information Indonesia say t
 ## Team Members
 
 | Member | Student ID | Path | University|
- --------   ---------   -----   ------
+| -------|   ---------| -----|   ------|
 |Dinda Lusita Fristiani Anisa |C2191F1816|Cloud Computing|Universitas Bina Darma|
 |Siti Fatimatuzzahro|M7329G2853|Machine Learning|Universitas Tidar|
 |Muhammad Nur Fauzi|A2329G2852|Mobile Development|Universitas Tidar|
