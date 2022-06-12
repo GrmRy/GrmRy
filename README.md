@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/GrmRy/GrmRy/blob/main/a.png)
+![Logo](https://github.com/GrmRy/GrmRy/blob/main/Tak%20berjudul15_20220612091720.png)
 
 <h1 align="center">GetFix</h1>
 
