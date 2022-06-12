@@ -41,7 +41,7 @@ In this repository,files contain in app are the final
 
 Here the screenshot of the app :
 
-![Screenshot1](https://github.com/GrmRy/GrmRy/blob/main/Tak%20berjudul15_20220612091720.png)
+![Screenshot1](https://github.com/GrmRy/GrmRy/blob/main/Desain%20tanpa%20judul.png)
 
 ## 3. Cloud Computing
 
