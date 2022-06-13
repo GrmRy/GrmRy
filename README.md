@@ -38,6 +38,16 @@ for the recomender we using Classification multiclass using structured data that
 ## 2. Mobile Development
 In this repository,files contain in app are the final 
 
+The tech we use for create this app :
+- Kotlin
+- Firebase
+- Retrofit
+- Material design
+- hilt
+- Image Slider Show denzcoskun
+- Rating Bar zhanghai
+- Glide
+- Tensorflow
 
 Here the screenshot of the app :
 
