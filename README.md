@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GrmRy
+- 👋 Hi, I’m Andrea Satria Nagari
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning about Machine Learning
-- 💞️ I’m looking to collaborate on project use python
+- 💞️ I’m looking to collaborate on a project use python
 - 📫 How to reach me 📧andreanagari36@gmail.com
 
 <!---
