@@ -16,7 +16,7 @@ A custom sentiment analysis toolkit leveraging NLP to decode textual data—chec
 ## 🚀 Recent Projects
 - [portoweb](https://github.com/GrmRy/portoweb)
 - [PDFRenamer](https://github.com/GrmRy/PDFRenamer)
-- [webSederhana](https://github.com/GrmRy/webSederhana)
+- [HOK_SentimentAnalysis](https://github.com/GrmRy/HOK_SentimentAnalysis)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/andrea-satria-nagari/)
