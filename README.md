@@ -1,4 +1,4 @@
-# Hi, I'm GrmRy 👋
+# Hi, I'm Andrea Satria Nagari 👋
 
 I'm an aspiring Machine Learning & Data enthusiast, currently seeking opportunities in the ML/Data space!  
 I love working with Python and have hands-on experience with frameworks like **TensorFlow**, **Streamlit**, and **NLTK**.
